@@ -112,7 +112,7 @@ const Menu = ({homeIsActive}) => {
             <motion.div custom={4} animate={controls}>
                 <Button
                     component={MuiLink}
-                    href="/resume.pdf"
+                    href="https://Ahmedbelaid.github.io/Peronsal-Portfolio/public/resume.pdf"
                     variant="outlined"
                     color="primary"
                     underline="none"
