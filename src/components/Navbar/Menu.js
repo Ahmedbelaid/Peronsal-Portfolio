@@ -112,7 +112,7 @@ const Menu = ({homeIsActive}) => {
             <motion.div custom={4} animate={controls}>
                 <Button
                     component={MuiLink}
-                    href="https://Ahmedbelaid.github.io/Peronsal-Portfolio/public/resume.pdf"
+                    href="https://publuu.com/flip-book/59153/173725"
                     variant="outlined"
                     color="primary"
                     underline="none"
