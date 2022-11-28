@@ -40,7 +40,7 @@ const MobileMenu = ({ open, onClose, onOpen }) => {
                     <ListItem className={classes.btnContainer}>
                         <Button
                             component={MuiLink}
-                            href="/resume.pdf"
+                            href="https://publuu.com/flip-book/59153/173725"
                             variant="outlined"
                             color="primary"
                             underline="none"
