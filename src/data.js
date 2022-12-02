@@ -62,4 +62,32 @@ const experienceList = [
     },
 ];
 
-export { skillsList, projectList, experienceList };
+const articleList = [
+    {
+        id: 1,
+        title: "8 Habits To Become More Productive ",
+        technologies: ["Medium"],
+        backgroundImage:
+            "https://cdn.cbeditz.com/cbeditz/preview/black-red-gradient-background-wallpaper-74-11614352798fbqrv1wpuv.jpg",
+        frontImage: "https://i.ibb.co/2jZjjg8/Screenshot-2021-05-11-042818.png",
+    },
+    {
+        id: 2,
+        title: "5 Key Principles For A Modern Web Design",
+        technologies: ["Ordinary Coders"],
+        backgroundImage:
+            "https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?size=626&ext=jpg&ga=GA1.2.2102900112.1628985600",
+        frontImage: "https://i.ibb.co/tCxcWzK/Screenshot-2022-11-21-192949.png",
+    },
+    {
+        id: 3,
+        title: "My Windows 11 Experience | By Ahmed Belaid",
+        technologies: ["Geek Culture"],
+        backgroundImage:
+            "https://media.istockphoto.com/vectors/abstract-purple-vector-background-with-stripes-vector-id972475894?k=6&m=972475894&s=612x612&w=0&h=99AirGMOb64N2-1ZSMYRjEBp2USrAdzXUGzQMh5o6Js=",
+        frontImage: "https://themes-backend.material-ui.com/wp-content/uploads/2021/05/01_preview.jpg",
+    },
+];
+
+
+export { skillsList, projectList, experienceList, articleList };

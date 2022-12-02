@@ -7,6 +7,7 @@ import Projects from "../../sections/Projects";
 import Contact from "../../sections/Contact";
 import Background3d from "../../components/Background3d.js/Background3d";
 import { useMediaQuery, useTheme } from "@material-ui/core";
+import Articles from "../../sections/Articles";
 
 const MainHome = () => {
     const theme = useTheme()
@@ -25,6 +26,7 @@ const MainHome = () => {
             <About />
             <Experience />
             <Projects />
+            <Articles/>
             <Contact />
             {!isMobile && <Background3d />}
         </motion.main>
