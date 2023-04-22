@@ -28,7 +28,7 @@ const projectList = [
     },
     {
         id: 3,
-        title: "Burpees.io",
+        title: "MasterHR.tn",
         technologies: ["React JS", "Node JS", "MongoDB"],
         backgroundImage:
             "https://media.istockphoto.com/vectors/abstract-purple-vector-background-with-stripes-vector-id972475894?k=6&m=972475894&s=612x612&w=0&h=99AirGMOb64N2-1ZSMYRjEBp2USrAdzXUGzQMh5o6Js=",
@@ -60,6 +60,28 @@ const experienceList = [
             instagram: "https://www.instagram.com/",
         },
     },
+    
+    {
+        id: 3,
+        company: "Proxym IT",
+        links: {
+            instagram: "https://www.proxym-group.com/",
+        },
+    },
+    {
+        id: 4,
+        company: "Rotaract",
+        links: {
+            instagram: "https://www.instagram.com/",
+        },
+    },
+    {
+        id: 5,
+        company: "Upwork",
+        links: {
+            instagram: "https://www.upwork.com/",
+        },
+    },
 ];
 
 const articleList = [
@@ -69,7 +91,7 @@ const articleList = [
         technologies: ["Medium"],
         backgroundImage:
             "https://cdn.cbeditz.com/cbeditz/preview/black-red-gradient-background-wallpaper-74-11614352798fbqrv1wpuv.jpg",
-        frontImage: "https://i.ibb.co/2jZjjg8/Screenshot-2021-05-11-042818.png",
+        frontImage: "https://i.ibb.co/mvyJWY6/1-d5-QPgk-U1-Bh5fps2rdj-Q39g.webp",
     },
     {
         id: 2,
@@ -77,7 +99,7 @@ const articleList = [
         technologies: ["Ordinary Coders"],
         backgroundImage:
             "https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?size=626&ext=jpg&ga=GA1.2.2102900112.1628985600",
-        frontImage: "https://i.ibb.co/tCxcWzK/Screenshot-2022-11-21-192949.png",
+        frontImage: "https://i.ibb.co/R60khDG/1-FWx-AGAd-GHS9q-Va-FZo-J2oyw-1.webp",
     },
     {
         id: 3,
@@ -85,7 +107,7 @@ const articleList = [
         technologies: ["Geek Culture"],
         backgroundImage:
             "https://media.istockphoto.com/vectors/abstract-purple-vector-background-with-stripes-vector-id972475894?k=6&m=972475894&s=612x612&w=0&h=99AirGMOb64N2-1ZSMYRjEBp2USrAdzXUGzQMh5o6Js=",
-        frontImage: "https://themes-backend.material-ui.com/wp-content/uploads/2021/05/01_preview.jpg",
+        frontImage: "https://i.ibb.co/YjQ6f99/1-5d-Fsw-RLp4-3-UZg-Kcrlyd2w.webp",
     },
 ];
 

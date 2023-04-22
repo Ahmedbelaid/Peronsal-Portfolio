@@ -112,7 +112,7 @@ const Menu = ({homeIsActive}) => {
             <motion.div custom={4} animate={controls}>
                 <Button
                     component={MuiLink}
-                    href="https://publuu.com/flip-book/59153/173725"
+                    href="https://drive.google.com/file/d/1cj_CnN9rjS1qYIWhVCfD-3T2ZftAyppG/view?usp=sharing"
                     variant="outlined"
                     color="primary"
                     underline="none"

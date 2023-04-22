@@ -6,7 +6,7 @@ import ExtendedCard from "./ExtendedCard";
 import { articleList } from "../../data";
 import { useTranslation } from "react-i18next";
 
-const Articles = () => {
+const ArticlesGallery = () => {
     const classes = useStyles();
     const { t } = useTranslation()
     const [selectedId, setSelectedId] = useState(null);
@@ -67,4 +67,4 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
-export default Articles;
+export default ArticlesGallery;
