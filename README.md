@@ -10,16 +10,7 @@
 
   <h1 align="center">Awesomefolio</h3>
 
-  <p align="center">
-    An awesome, modern React portfolio
-    <br />
-    <br />
-    <a href="https://mehdibha.codehub.tn">View Demo</a>
-    ·
-    <a href="https://github.com/Mehdi-BHA/Awesomefolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Mehdi-BHA/Awesomefolio/issues">Request Feature</a>
-  </p>
+  
 </p>
 
 
